@@ -104,7 +104,7 @@ DATABASES = {
         'NAME': 'Mysqldb',
         'HOST':'127.0.0.1', 
         'USER': 'root', 
-        'PASSWORD':'diamalaye1994', 
+        'PASSWORD':'sadibou1994', 
         'PORT':'3306',  
     } 
 }
